@@ -4,7 +4,7 @@
 
 | Name | Weibo Id | Blog | Mail |
 |:-----------|:-------------|:-------------|:-----------|
-| 李豪 |[@计算所的小鼠标](http://weibo.com/icttinymouse) | [CarpenterLee](http://www.cnblogs.com/CarpenterLee/) | hooleeucas@163.com |
+| 杨帅 | |  | 1213947205@qq.com |
 
 # Introduction
 
